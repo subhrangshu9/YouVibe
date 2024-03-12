@@ -9,6 +9,10 @@ This project was created using [Vite](https://vitejs.dev/guide/).
 
 ![Screenshot (484)_1](https://github.com/subhrangshu9/YouVibe/assets/74654165/953c637e-6930-4fcc-bc87-27d6bb34eaa0)
 
+![Screenshot (485)](https://github.com/subhrangshu9/YouVibe/assets/74654165/7736c24c-0d0a-4b86-a42b-613ae84185df)
+
+
+
 
 <br />
 
