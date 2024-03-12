@@ -6,10 +6,11 @@ This project was created using [Vite](https://vitejs.dev/guide/).
 
 Live URL: [YouVibe](https://you-vibe-owst.vercel.app/)
 
-
-[Screenshot (485)](https://github.com/subhrangshu9/YouVibe/assets/74654165/bdbb2c18-d28e-41dd-8696-b8f79c01755f)
-
 ![Screenshot (484)_1](https://github.com/subhrangshu9/YouVibe/assets/74654165/657e1d5d-73d7-4f56-ad25-f1f3b883bfce)
+
+![Screenshot (485)](https://github.com/subhrangshu9/YouVibe/assets/74654165/bdbb2c18-d28e-41dd-8696-b8f79c01755f)
+
+
 
 
 
